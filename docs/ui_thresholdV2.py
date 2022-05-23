@@ -73,7 +73,6 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.pushButtonBaslat.setText(_translate("MainWindow", "Threshold Baslat"))
         self.pushButtonCikis.setText(_translate("MainWindow", "Çıkış"))
-import icon_rc
 
 
 if __name__ == "__main__":

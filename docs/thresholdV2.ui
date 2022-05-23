@@ -103,9 +103,7 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources>
-  <include location="icon.qrc"/>
- </resources>
+ <resources/>
  <connections/>
  <slots>
   <slot>my_slot(int)</slot>
